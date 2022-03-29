@@ -1,0 +1,41 @@
+Respostas da lista de execícios:
+
+Execícios de lógica
+
+1 - l, ll, lll e v
+
+2 - D
+
+
+Exercícios de algoritmos
+
+1 - Fazer café
+
+Passo 1: Colocar a cafeteira na pia
+Passo 2 - Levantar a tampa da cafeteira
+Passo 3 - Colocar a quantidade de aguá desejada na cafeteira
+Passo 4 - Colocar o filtro de papel na cafeteira
+Passo 5 - Colocar o pó de café no filtro de papel
+Passo 6 - Fechar a tampa da cafeteira
+Passo 7 - Ligar a cafeteira
+
+Comprar remédio
+
+Passo 1 - Ir até a farmácia
+Passo 2 - Solicitar o remédio desejado ao balconista
+Passo 3 - Ir até o caixa pagar pelo remédio
+
+Fazer bolo de chocolate
+
+Passo 1 - Pegar uma receita de bolo na internet
+Passo 2 - Separar uma batedeira
+Passo 3 - Separar a forma do bolo
+Passo 4 - Separar os ingredientes necessários
+Passo 5 - Colocar os ingredientes na batedeira para fazer a massa
+Passo 6 - Ligar a batedeira para misturar os ingredientes
+Passo 7 - Untar a forma com manteiga e farinha de trigo
+Passo 8 - Pré-aquecer o forno em 180° por 15 minutos
+Passo 9 - Colocar a massa na forma
+Passo 10 - Colocar a forma dentro do forno
+Passo 11 - Esperar assar por 40 min
+Passo 12 - Retirar a forma do forno 
