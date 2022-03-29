@@ -1,2 +1,2 @@
 # IntroducaoProgramacao
-Exercícios
+Exercícios feitos. Algorítmos e fluxogramas.
